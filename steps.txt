@@ -1,0 +1,12 @@
+1- connection as a class to call it whenever i want
+2- Request as a class that has conditions of post and get and redirect and file 
+3- Session as a class that has conditions of getsesion , set, unset, destroy
+4- img as a class to prepare uploading Img file in DB  
+5- CRUD as a classes to call every function whenever i want
+6- Validation as a interface to implemet all classes validation as i want and carry all classes in Validator class that call all classes and objects
+7- Call all that files classes in one file that carry all classes to call that file rather than call all files classes (app.php)
+
+8- Get every Form in CRUD op and do the CRUD functions
+9- Handle every Form like (delete, insert, update) that need handels 
+10- validation every columns in CRUD files
+11- set Sessions errors and success
