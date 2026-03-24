@@ -45,6 +45,9 @@ The project allows users to manage products including adding, updating, deleting
 ### ➕ Add Product
 ![Add](assets/images/Add.png)
 
+### ✏️ Update Product
+![Update](assets/images/Update.png)
+
 ### ❌ Error Message
 ![Error](assets/images/Error.png)
 
