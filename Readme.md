@@ -40,13 +40,13 @@ The project allows users to manage products including adding, updating, deleting
 
 ## 📸 Screenshots
 ### 🏠 Home Page
-![Home](assets/images/Screenshot (29))
+![Home](assets/images/Screenshot (29).png)
 
 ### ➕ Add Product
-![Add](assets/images/Screenshot (30))
+![Add](assets/images/Screenshot (30).png)
 
 ### ❌ Error Message
-![Error](assets/images/Screenshot (30))
+![Error](assets/images/Screenshot (30).png)
 
 
 ## 👨‍💻 Author
