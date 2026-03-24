@@ -3,7 +3,8 @@ require_once  'app.php';
 ?>
 
 <?php 
-$product->SelectOne($product['id']);
+$id = $request->get('id');
+$product = $product->SelectOne($id);
 if (empty($product)) {
     echo "EMPTY";
 }
@@ -17,7 +18,7 @@ if (empty($product)) {
 
 
     <div class="col-lg-6">
-            <img src="<?php echo $product['img'] ?>" class="card-img-top">
+            <img src="images/<?php echo $product['img'] ?>" class="card-img-top">
             </div>
             <div class="col-lg-6">
             <h5 ><?php echo $product['name'] ?></h5>
